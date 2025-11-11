@@ -1,5 +1,5 @@
 function analisarTexto(texto){
-    return{ 
+    return{
         quantidadeDeCaracteres: texto.length,
         contemJavaScript: texto.includes("JavaScript"),
         textoMaiusculo: texto.toUpperCase(),
