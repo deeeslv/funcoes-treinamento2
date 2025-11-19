@@ -26,3 +26,13 @@ console.log(perfil2.hobbies)
 console.log(perfil2.nome)
 console.log(perfil1.hobbies[1])
 console.log(perfil3.ativo)
+
+perfil1.idade = 22
+perfil2.hobbies.push("Ler")
+perfil3.ativo = true
+perfil1.cidade = "São Paulo"
+
+console.log(perfil1.idade)
+console.log(perfil2.hobbies)
+console.log(perfil3.ativo)
+console.log(perfil1.cidade)
