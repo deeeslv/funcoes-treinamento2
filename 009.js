@@ -36,3 +36,4 @@ console.log(perfil1.idade)
 console.log(perfil2.hobbies)
 console.log(perfil3.ativo)
 console.log(perfil1.cidade)
+//Também adicionando novas propriedades e alterando valores.
