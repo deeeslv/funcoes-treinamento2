@@ -1,4 +1,4 @@
-function validarUsuario(usuario){
+    function validarUsuario(usuario){
     let erros = []
 
     if (usuario.nome.length < 2) erros.push("Nome inválido")
